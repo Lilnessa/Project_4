@@ -1,0 +1,96 @@
+﻿Year,Inflation rate YOY,Federal funds rate,Business cycle (gross domestic product [GDP] growth),Events affecting inflation
+1929,0.006,NA,August peak,Market crash
+1930,-0.064,NA,Contraction (-8.5%),Smoot-Hawley Tariff Act
+1931,-0.093,NA,Contraction (-6.4%),Dust Bowl
+1932,-0.103,NA,Contraction (-12.9%),Hoover tax hikes
+1933,0.008,NA,Contraction ended in March (-1.2%),FDR’s New Deal
+1934,0.015,NA,Expansion (10.8%),U.S. debt rose
+1935,0.03,NA,Expansion (8.9%),Social Security
+1936,0.014,NA,Expansion (12.9%),FDR tax hikes
+1937,0.029,NA,Expansion peaked in May (5.1%),Depression resumed
+1938,-0.028,NA,Contraction ended in June (-3.3%),Depression ended
+1939,0,NA,Expansion (8.0%),Dust Bowl ended
+1940,0.007,NA,Expansion (8.8%),Defense increased
+1941,0.099,NA,Expansion (17.7%),Pearl Harbor
+1942,0.09,NA,Expansion (18.9%),Defense spending
+1943,0.03,NA,Expansion (17.0%),Defense spending
+1944,0.023,NA,Expansion (8.0%),Bretton Woods
+1945,0.022,NA,"February peak, October trough (-1.0%)",Truman ended WWII
+1946,0.181,NA,Expansion (-11.6%),Budget cuts
+1947,0.088,NA,Expansion (-1.1%),Cold War spending
+1948,0.03,NA,November peak (4.1%),
+1949,-0.021,NA,October trough (-0.6%),Fair Deal; NATO
+1950,0.059,NA,Expansion (8.7%),Korean War
+1951,0.06,NA,Expansion (8.0%),
+1952,0.008,NA,Expansion (4.1%),
+1953,0.007,NA,July peak (4.7%),Eisenhower ended Korean War
+1954,-0.007,1.25%,May trough (-0.6%),Dow returned to 1929 high
+1955,0.004,2.50%,Expansion (7.1%),
+1956,0.03,3.00%,Expansion (2.1%),
+1957,0.029,3.00%,August peak (2.1%),Recession
+1958,0.018,2.50%,April trough (-0.7%),Recession ended
+1959,0.017,4.00%,Expansion (6.9%),Fed raised rates
+1960,0.014,2.00%,April peak (2.6%),Recession
+1961,0.007,2.25%,February trough (2.6%),JFK’s deficit spending ended recession
+1962,0.013,3.00%,Expansion (6.1%),
+1963,0.016,3.50%,Expansion (4.4%),
+1964,0.01,3.75%,Expansion (5.8%),"LBJ Medicare, Medicaid"
+1965,0.019,4.25%,Expansion (6.5%),
+1966,0.035,5.50%,Expansion (6.6%),Vietnam War
+1967,0.03,4.50%,Expansion (2.7%),
+1968,0.047,6.00%,Expansion (4.9%),
+1969,0.062,9.00%,December peak (3.1%),Nixon took office; moon landing
+1970,0.056,5.00%,November trough (0.2%),Recession
+1971,0.033,5.00%,Expansion (3.3%),Wage-price controls
+1972,0.034,5.75%,Expansion (5.3%),Stagflation
+1973,0.087,9.00%,November peak (5.6%),End of gold standard
+1974,0.123,8.00%,Contraction (-0.5%),Watergate
+1975,0.069,4.75%,March trough (-0.2%),Stopgap monetary policy confused businesses and kept prices high
+1976,0.049,4.75%,Expansion (5.4%),
+1977,0.067,6.50%,Expansion (4.6%),
+1978,0.09,10.00%,Expansion (5.5%),
+1979,0.133,12.00%,Expansion (3.2%),
+1980,0.125,18.00%,January peak (-0.3%),Recession
+1981,0.089,12.00%,July trough (2.5%),Reagan tax cut
+1982,0.038,8.50%,November (-1.8%),Recession ended
+1983,0.038,9.25%,Expansion (4.6%),Military spending
+1984,0.039,8.25%,Expansion (7.2%),
+1985,0.038,7.75%,Expansion (4.2%),
+1986,0.011,6.00%,Expansion (3.5%),Tax cut
+1987,0.044,6.75%,Expansion (3.5%),Black Monday crash
+1988,0.044,9.75%,Expansion (4.2%),Fed raised rates
+1989,0.046,8.25%,Expansion (3.7%),S&L crisis
+1990,0.061,7.00%,July peak (1.9%),Recession
+1991,0.031,4.00%,March trough (-0.1%),Fed lowered rates
+1992,0.029,3.00%,Expansion (3.5%),NAFTA drafted
+1993,0.027,3.00%,Expansion (2.8%),Balanced Budget Act
+1994,0.027,5.50%,Expansion (4.0%),
+1995,0.025,5.50%,Expansion (2.7%),
+1996,0.033,5.25%,Expansion (3.8%),Welfare reform
+1997,0.017,5.50%,Expansion (4.4%),Fed raised rates
+1998,0.016,4.75%,Expansion (4.5%),Long-term capital management crisis
+1999,0.027,5.50%,Expansion (4.8%),Glass-Steagall Act repealed
+2000,0.034,6.50%,Expansion (4.1%),Tech bubble burst
+2001,0.016,1.75%,"March peak, November trough (1.0%)",Bush tax cut; 9/11 attacks
+2002,0.024,1.25%,Expansion (1.7%),War on Terror
+2003,0.019,1.00%,Expansion (2.9%),Jobs and Growth Tax Relief Reconciliation Act
+2004,0.033,2.25%,Expansion (3.8%),
+2005,0.034,4.25%,Expansion (3.5%),Hurricane Katrina; Bankruptcy Act
+2006,0.025,5.25%,Expansion (2.9%),
+2007,0.041,4.25%,December peak (1.9%),Bank crisis
+2008,0.001,0.25%,Contraction (-0.1%),Financial crisis
+2009,0.027,0.25%,June trough (-2.5%),American Recovery and Reinvestment Act
+2010,0.015,0.25%,Expansion (2.6%),Affordable Care Act; Dodd-Frank Act
+2011,0.03,0.25%,Expansion (1.6%),Debt ceiling crisis
+2012,0.017,0.25%,Expansion (2.2%),
+2013,0.015,0.25%,Expansion (1.8%),"Government shutdown, sequestration"
+2014,0.008,0.25%,Expansion (2.5%),Quantitative easing ends
+2015,0.007,0.50%,Expansion (3.1%),Deflation in oil and gas prices
+2016,0.021,0.75%,Expansion (1.7%),
+2017,0.021,1.50%,Expansion (2.3%),
+2018,0.019,2.50%,Expansion (3.0%),
+2019,0.023,1.75%,Expansion (2.2%),
+2020,0.014,0.25%,Contraction (-3.4%),COVID-19
+2021,0.07,0.25%,Expansion (5.9%),COVID-19
+2022,0.065,4.50%,Contraction (-2.1%),Russia invades Ukraine
+2023,0.034,5.50%,Expansion (+4.9% as of Q3 2023),Fed raised rates
