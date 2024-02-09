@@ -10,7 +10,7 @@ The final project was constructed to present an individual retirement calculator
 **Instructions**
 
 **Resources**
-https://www.ssa.gov/oact/STATS/table4c6.html,
+https://www.ssa.gov/oact/HistEst/PerLifeTables/2017/PerLifeTables2017.html,
 https://www.bls.gov/cpi/,
 https://www.forbes.com/advisor/mortgages/cost-of-living-by-state/
 
