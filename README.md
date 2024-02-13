@@ -14,14 +14,15 @@ The United States Bureau of Labor Statistics has inflation data since 1913. A pr
 
 LIFE EXPECTANCY
 
-The life expectancy data was taken from the Social Security Administration. The models were taken based on the average life expectancy for both females and males. As the model shows, life expectancy fluctuates between the two genders. This is important to reflect in the model because it needs to accurately predict whether someone can retire based on how much longer he or she is expected to live. As the data shows, women live longer than men by an average of 5 years. Women in general then would need to have more savings if they would like to retire. 
+The life expectancy data was taken from the Social Security Administration. The models were taken based on the average life expectancy for both females and males in 2024. As the model shows, life expectancy fluctuates between the two genders. This is important to reflect in the model because it needs to accurately predict whether someone can retire based on how much longer he or she is expected to live. As the data shows, women live longer than men by an average of 5 years. Women in general then would need to have more savings if they would like to retire.
 
 COST OF LIVING
 
 The data was gathered from Forbes Magazine to show the differences between the states in cost of living. They include housing costs, transportation, food costs and taxes in each of the 50 states. The model was based on CPI to showcase how expensive it can be to live in the various states. Each state has the average cost of living that was placed into the model. Hawaii and Massachusetts would be the two most expensive states while Mississippi and Alabama are the cheapest for average cost of living. With each state being different in terms of cost, it will directly reflect how much savings someone would need to retire. The model will show how much more savings someone would need if they move states or plan on retiring in another state. 
 
 RETIREMENT CALCULATOR
-With all the data collected, the model can finally predict if a person is a candidate for retirement. By using their income level for their state, life expectancy, and inflation, the calculator will showcase if a person is eligible for retirement with a high degree of accuracy. If they are not eligible for retirement, the calculator will describe how much more money is needed to retire. 
+
+With all the data collected, the model can finally predict if a person is a candidate for retirement. By using their income level for their state, life expectancy, and inflation, the calculator will showcase if a person is eligible for retirement with a high degree of accuracy. If they are not eligible for retirement, the calculator will describe how much more money is needed to retire. The model 
 
 **Resources**
 https://www.ssa.gov/oact/STATS/table4c6.html,
@@ -31,6 +32,3 @@ https://www.forbes.com/advisor/mortgages/cost-of-living-by-state/
 **Citations**
 Code used for Facebook Prophet
 https://facebook.github.io/prophet/docs/quick_start.html
-https://www.forbes.com/advisor/mortgages/cost-of-living-by-state/
-
-**Citations**
