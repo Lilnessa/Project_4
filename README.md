@@ -10,15 +10,15 @@ The final project was constructed to present an individual retirement calculator
 
 INFLATION
 
-The United States Bureau of Labor Statistics has inflation data since 1913. A predictive model was made using data from the last 110 years to estimate what inflation may look like in the coming 80 years. The programming model was coded with Facebook Prophet with a high degree of accuracy. It shows inflation gradually increasing every year which directly affects someone's ability to retire. The predictive model shows a steady increase of inflation, displaying how much or how little the US Dollar will be worth. 
+The United States Bureau of Labor Statistics has inflation data since 1913. A predictive model was made using data from the last 110 years to estimate what inflation may look like in the coming 80 years. The programming model was coded with Facebook Prophet with a high degree of accuracy. It shows inflation gradually increasing every year which directly affects someone's ability to retire. This displays how much or how little the US Dollar will be worth in a given year. With this information, one can more accurately predict how much savings that person will need to retire.
 
 LIFE EXPECTANCY
 
-The life expectancy data was taken from the Social Security Administration. The models were taken based on the average life expectancy for both females and males. As the model shows, life expectancy fluctuates between the two genders. By using the model, one can see based on their gender how much longer they on average will live. And with that knowledge, the model will show how much more money for each individual to retire. 
+The life expectancy data was taken from the Social Security Administration. The models were taken based on the average life expectancy for both females and males. As the model shows, life expectancy fluctuates between the two genders. To more accurately predict whether someone can retire, the model can show how much longer that person is likely to live. This is necessary for the model as to predict whether someone can retire or not. 
 
 COST OF LIVING
 
-The data was gathered from Forbes Magazine to show the differences between the states in cost of living. They include housing costs, transportation, food costs and taxes in each of the 50 states. The model was based on CPI to showcase 
+The data was gathered from Forbes Magazine to show the differences between the states in cost of living. They include housing costs, transportation, food costs and taxes in each of the 50 states. The model was based on CPI to showcase how expensive it can be to live in the various states. Each state has the average cost of living that was placed into the model. Hawaii and Massachusetts would be the two most expensive states while Mississippi and Alabama are the cheapest for average cost of living. With each state being different in terms of cost, it will directly reflect how much savings someone would need to retire. 
 
 RETIREMENT CALCULATOR
 With all the data collected, the model can finally predict if a person is a candidate for retirement. By using their income level for their state, life expectancy, and inflation, the calculator will showcase if a person is eligible for retirement with a high degree of accuracy. If they are not eligible for retirement, the calculator will describe how much more money is needed to retire. 
