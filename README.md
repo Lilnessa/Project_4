@@ -28,7 +28,7 @@ The data was gathered from Forbes Magazine to show the differences between the s
 
 RETIREMENT CALCULATOR
 
-With all the data collected, the model can finally predict if a person is a candidate for retirement. By using their income level for their state, life expectancy, and inflation, the calculator will showcase if a person is eligible for retirement with a high degree of accuracy. If they are not eligible for retirement, the calculator will describe how much more money is needed to retire. The model 
+With all the data collected, the model can finally predict if a person is a candidate for retirement. By using their income level for their state, life expectancy, and inflation, the calculator will showcase if a person is eligible for retirement with a high degree of accuracy. If they are not eligible for retirement, the calculator will describe how much more money is needed to retire.
 
 **Resources**
 https://www.ssa.gov/oact/STATS/table4c6.html,
